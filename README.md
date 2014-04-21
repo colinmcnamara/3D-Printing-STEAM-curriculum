@@ -7,5 +7,9 @@ Video of the 2014 revision of this is available on youtube here
 
 https://www.youtube.com/watch?v=3ie955giAx4
 
+Presentation on slideshare 
+
+http://www.slideshare.net/colinmcnamara1/3d-printing-course-from-hackidcon-2014
+
 I'm always looking for improvements. This was my first 3d printing class I've taught, and I'm an enthusiast, not an educator.
 
