@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Hackidcon-3d-printing</title>
+  </head>
+  <body>
+    <outline text="Goal ">
+      <outline text="Introduce fundemental topics ">
+      </outline>
+    </outline>
+    <outline text="Why?" _note="Why do I 3d print">
+      <outline text="Something to do with my kids">
+      </outline>
+      <outline text="You can MAKE!!!">
+      </outline>
+      <outline text="All sorts of cool things">
+        <outline text="Toys">
+        </outline>
+        <outline text="Whistles">
+        </outline>
+        <outline text="Parts">
+        </outline>
+        <outline text="Markerbots">
+        </outline>
+      </outline>
+    </outline>
+    <outline text="Intro to 3d Printing" _note="1 hour">
+    </outline>
+    <outline text="Objects - 3d Printing Communties">
+      <outline text="Thingiverse">
+      </outline>
+    </outline>
+    <outline text="3d Printing Software">
+      <outline text="ReplicatorG">
+      </outline>
+      <outline text="Makerware">
+      </outline>
+    </outline>
+    <outline text="Filiment">
+      <outline text=" Thin Platic Spools">
+      </outline>
+      <outline text="ABS - Plastic">
+      </outline>
+      <outline text="PLA - Potatoe">
+      </outline>
+    </outline>
+    <outline text="How the 3d Printer works">
+      <outline text="Platform">
+      </outline>
+      <outline text="Steppers">
+      </outline>
+      <outline text="Extruder">
+      </outline>
+      <outline text="Map">
+      </outline>
+    </outline>
+    <outline text="3doodler - Print your own object by hand!">
+    </outline>
+    <outline text="3d Scanners">
+    </outline>
+    <outline text="3d Printing Hardware">
+      <outline text="Makerbot ">
+      </outline>
+      <outline text="Replicator">
+      </outline>
+      <outline text="Reprap">
+      </outline>
+    </outline>
+    <outline text="*** Advanced 3d Printing" _note="1hr 15 min">
+    </outline>
+    <outline text="Creating a new one - Scanning!">
+    </outline>
+    <outline text="Customizing your model">
+    </outline>
+    <outline text="smoothing your object">
+      <outline text="Sanding">
+      </outline>
+      <outline text="Tools - knifes">
+      </outline>
+    </outline>
+    <outline text="Acetone Immersion">
+    </outline>
+    <outline text="SAFETY">
+      <outline text="Fire">
+      </outline>
+      <outline text="Eye Protection">
+      </outline>
+      <outline text="Parents">
+      </outline>
+    </outline>
+    <outline text="Theory">
+      <outline text="Melting Face">
+      </outline>
+    </outline>
+    <outline text="Parts">
+      <outline text="Flask">
+      </outline>
+      <outline text="Tube">
+      </outline>
+      <outline text="Hotplate">
+      </outline>
+    </outline>
+    <outline text="Learning More">
+      <outline text="RepRap">
+      </outline>
+      <outline text="Makerbot">
+      </outline>
+    </outline>
+  </body>
+</opml>
